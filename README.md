@@ -14,8 +14,8 @@ Step 9:Evaluate the model's accuracy by comparing the predicted labels (y_pred) 
 Step 10:Print the accuracy of the model.<BR>
 Step 11:Plot the error convergence during training using plt.plot() and plt.show().<BR>
 ```
-Developed By: ROHIT JAIN D
-Register No : 212222230120
+Developed By: THIYAGARAJAN A
+Register No : 212222240110
 ```
 ### Program:
 ```Python
